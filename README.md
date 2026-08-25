@@ -55,5 +55,8 @@ CRM buildouts, SEO operations, and workflow automation across Make.com, n8n,
 GoHighLevel, Clio, and the usual API surface area. The public repos are the
 part I can show. The pattern behind them is the part I sell.
 
+Founder of [Brand75](https://brand75.com), a digital marketing and AI
+consulting agency. Full portfolio: [chriskaneshiro.com](https://chriskaneshiro.com).
+
 Currently seeking a full-time role building AI-enabled products and
 operations. Olympia, WA. Open to remote.
