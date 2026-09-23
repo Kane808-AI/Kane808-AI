@@ -4,7 +4,7 @@ I build AI operations systems that run real businesses. Not demos, not
 wrappers: multi-agent back offices with policy engines, verification gates,
 and audit trails, installed where mistakes have consequences.
 
-Fifteen years of sales leadership taught me what operations actually need.
+Eighteen years of sales and operations leadership taught me what operations actually need.
 The last few years of building taught me how to deliver it with AI. The
 combination is the point: I design the system, build it, install it, and
 operate it.
