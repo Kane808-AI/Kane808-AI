@@ -13,8 +13,8 @@ deterministic gates, evidence, rollback, and human approval where it matters.
 
 A headless platform for event-driven business automation. It separates agent
 reasoning from policy, approvals, execution, and verification so autonomous
-work can be supervised and audited. An approval-gated agent channel is live
-today: a model drafts every reply, and a human decision releases every outbound
+work can be supervised and audited. An approval-gated agent channel ran on it
+from July to August 2026, with a human decision releasing every outbound
 message.
 
 ![The Agent OS runtime dashboard, captured from the repository's own local demo](docs/agent-os-dashboard.png)
